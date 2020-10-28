@@ -4,3 +4,13 @@ body {
     min-height: 150vh;
 }
 
+header {
+    display: flex;
+    flex-direction: row;
+}
+.logo {
+    flex: 1;
+}
+.login {
+    flex: 1;
+}
