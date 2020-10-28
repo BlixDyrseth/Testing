@@ -13,4 +13,5 @@ header {
 }
 .login {
     flex: 1;
+    float: right;
 }
