@@ -21,3 +21,20 @@ header {
 #hamburger-menu {
     display: none;
     } 
+
+    .footer {
+        display: flex;
+        flex-direction: row;
+        }
+        .info {
+            flex: 1;
+        }
+        .resrc {
+            flex: 1;
+            }
+        .company {
+            flex: 1;
+            }
+        .follow {
+            flex: 1;
+            }
