@@ -11,7 +11,8 @@ nav  {
 } 
 .nav {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    display: inline-block;
 }
 .item {
     flex: 1;
