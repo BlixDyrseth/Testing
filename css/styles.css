@@ -2,6 +2,7 @@ body {
     background-image: linear-gradient(#F5EAEA, #EDD9D9, #D7A9A9);
     margin: 0 auto;
     min-height: 150vh;
+    display: flex;
 }
 
 @font-face {
@@ -28,8 +29,9 @@ header {
     flex-direction: row;
         background-color: #CAD0D9;
         width: 100%;
-        height: 90px;
+    
 }
+
 .logo {
     flex: 1;
 }
@@ -40,6 +42,26 @@ header {
 #hamburger-menu {
     display: none;
     } 
+
+.homesection:nth-child(1) {
+    flex: 1
+    }
+.homesection:nth-child(2) {
+    flex: 1
+    }
+.homesection:nth-child(3) {
+    flex: 1
+    }
+.homesection:nth-child(4) {
+    flex: 1
+    }
+.homesection:nth-child(5) {
+    flex: 1
+    }
+.homesection:nth-child(6) {
+    flex: 1
+    }
+    
 footer {
     background-color: #CAD0D9;
 }
