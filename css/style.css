@@ -9,34 +9,4 @@ body {
 nav  {
     display: inline-block;
 } 
-.nav {
-    display: flex;
-    flex-direction: row;
-    display: inline-block;
-}
-.item {
-    flex: 1;
-    padding: 10px;
-    margin: 10px;
-  }
-  
-  .logo {
-    max-width: 300px;
-    background-color: #c70d00;
-    text-align: center;
-    border-radius: 20px;
-  }
-  
-  .search {
-    max-width: 300px;
-    background-color: #00a4f0;
-    text-align: center;
-    border-radius: 20px;
-  }
-  
-  .profil {
-    max-width: 50px;
-    background-color: #ff00ff;
-    text-align: center;
-    border-radius: 20px;
-  }
+
